@@ -30,7 +30,7 @@ Sebelum memulai, pastikan Anda sudah memiliki hal-hal berikut:
 
 ### 1. Menginstal Backend (Laravel)
 
-1. **Clone Repositori Backend**:
+1. Clone Repositori Backend:
    ```bash
    git clone https://github.com/username/mountain-explorer-backend.git
    cd mountain-explorer-backend
