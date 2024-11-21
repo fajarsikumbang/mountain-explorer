@@ -1,7 +1,7 @@
 ```markdown
 # Mountain Explorer
 
-Mountain Explorer adalah aplikasi berbasis web yang memungkinkan pengguna untuk menjelajahi berbagai gunung di seluruh dunia. Aplikasi ini dibangun dengan **React** di frontend dan **Laravel** di backend, dan menggunakan **OpenWeather API** untuk menampilkan data cuaca terkini di setiap gunung.
+Mountain Explorer adalah aplikasi berbasis web yang memungkinkan pengguna untuk menjelajahi berbagai gunung di seluruh dunia. Aplikasi ini dibangun dengan menggunakan **React** di frontend dan **Laravel** di backend, serta mengintegrasikan **OpenWeather API** untuk menampilkan data cuaca terkini di setiap gunung.
 
 ## Fitur
 - Menampilkan daftar gunung.
