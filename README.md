@@ -1,3 +1,5 @@
+Berikut adalah versi README yang telah diubah, dengan tanda * dihapus:
+
 ```markdown
 # Mountain Explorer
 
@@ -10,19 +12,19 @@ Mountain Explorer adalah aplikasi berbasis web yang memungkinkan pengguna untuk 
 - Menampilkan informasi cuaca terkini berdasarkan lokasi gunung.
 
 ## Teknologi
-- **Frontend**: React.js
-- **Backend**: Laravel
-- **Peta**: Leaflet.js / Mapbox
-- **Cuaca**: OpenWeather API
-- **Styling**: Tailwind CSS
+- Frontend: React.js
+- Backend: Laravel
+- Peta: Leaflet.js / Mapbox
+- Cuaca: OpenWeather API
+- Styling: Tailwind CSS
 
 ## Prasyarat
 Sebelum memulai, pastikan Anda sudah memiliki hal-hal berikut:
-- **Node.js** (v14 ke atas)
-- **Composer** (untuk Laravel)
-- **PHP** (v8.0 ke atas)
-- **MySQL** atau **SQLite** (tergantung pengaturan Laravel)
-- **API Key dari OpenWeather** (untuk mendapatkan data cuaca)
+- Node.js (v14 ke atas)
+- Composer (untuk Laravel)
+- PHP (v8.0 ke atas)
+- MySQL atau SQLite (tergantung pengaturan Laravel)
+- API Key dari OpenWeather (untuk mendapatkan data cuaca)
 
 ## Instalasi
 
